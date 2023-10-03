@@ -1,5 +1,5 @@
-BINARYNAME=project-name
-PATH_TO_BINARY=./cmd/project-name
+BINARYNAME=go-short
+PATH_TO_BINARY=./cmd/go-short
 .DEFAULT_GOAL := run
 
 run:
