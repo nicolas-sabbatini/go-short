@@ -1,5 +1,5 @@
 [build]
-cmd = "go build -o ./tmp/main ./cmd/go-short-v2"
+cmd = "go build -o ./tmp/main ./cmd/go-short-sql"
 
 [color]
 main = "magenta"
